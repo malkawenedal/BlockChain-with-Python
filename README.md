@@ -1,7 +1,7 @@
 # Cryptocurrency-Wallet
 ## Done by Nedal Mahanweh 
 
-### in this Project we will build a Platform called Fintech-Finder whish is an application that is customers can use to find Fintech Professionals from amomg list of Candidates , hire them, and pay them. By integreting the Ethereum network blockchain network into the application in order to enable the Cusomers to instanly pay the fintech professionals whome they hire with cryptocurrency. 
+### In this Project we will build a Platform called Fintech-Finder which is an application that is customers can use to find Fintech Professionals from among list of Candidates , hire them, and pay them. By integreting the Ethereum network blockchain  into the application in order to enable the Customers to instanly pay the fintech professionals whome they hire with cryptocurrency. 
 
 
 ### Files 
@@ -11,7 +11,7 @@
 
 ### step 1: Import Ethereum Transaction Functions into the Fintech Finder Application
 
-in this section, we will import several functions from the crypto_wallet.py script into the file fintech_finder.py, which contains code for Fintech Finder’s customer interface,in order to add wallet operations to the application. 
+In this section, we will import several functions from the crypto_wallet.py script into the file fintech_finder.py, which contains code for Fintech Finder’s customer interface,in order to add wallet operations to the application. 
 
 
 ### Step 2: Sign and Execute a Payment Transaction
