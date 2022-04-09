@@ -23,10 +23,17 @@ we will send a test transaction by using the application’s web interface, and 
 
 ![](Images/capt_1.png)
 
+
+
 ![](Images/capt_2.png)
+
+
 
 ### Address balance and history on Ganache
 ![](Images/transaction_dis.png)
+
+
+
 
 ###  Transaction details on Ganache
  ![](Images/valid_trans.png)
